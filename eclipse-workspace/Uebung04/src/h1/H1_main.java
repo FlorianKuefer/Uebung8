@@ -4,7 +4,7 @@ public class H1_main {
 
 	public static void main(String[] args) {
 		
-		 int zone = 7;           //  beliebiger Wert für Zone, z. B. 3
+		 int zone = 7;           // beliebiger Wert für Zone, z. B. 3
 	        double price = 4.56;
 	        
 	               switch (zone) {
